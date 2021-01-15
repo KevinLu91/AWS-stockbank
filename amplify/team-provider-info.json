@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-stockbank-dev-120540-authRole",
+      "UnauthRoleArn": "arn:aws:iam::976185173022:role/amplify-stockbank-dev-120540-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::976185173022:role/amplify-stockbank-dev-120540-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-stockbank-dev-120540-deployment",
+      "UnauthRoleName": "amplify-stockbank-dev-120540-unauthRole",
+      "StackName": "amplify-stockbank-dev-120540",
+      "StackId": "arn:aws:cloudformation:eu-west-1:976185173022:stack/amplify-stockbank-dev-120540/9d395690-5721-11eb-83fe-0ad741ae72c5",
+      "AmplifyAppId": "d1yquahy4c914b"
+    },
+    "categories": {
+      "auth": {
+        "stockbank94155243": {}
+      }
+    }
+  }
+}

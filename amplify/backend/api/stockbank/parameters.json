@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "stockbank",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authstockbank94155243",
+      "Outputs.UserPoolId"
+    ]
+  }
+}
